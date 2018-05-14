@@ -22,23 +22,13 @@
 		
 		if_match
 		{
-			"proportionaltoparent"	"1"
-			"xpos"					"cs-0.5"
-			"xpos_minmode"			"cs-0.5"
-			"ypos"					"0"
-			"ypos_minmode"			"0"
-			"delta_item_x"			"10"
-			"delta_item_start_y"	"12"
-			"delta_item_end_y"		"50"
-			"PositiveColor"			"0 255 0 255"
-			"NegativeColor"			"255 0 0 255"
-			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"xpos"			"c-43"
+			"ypos"			"7"
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
 			"fgcolor"		"TanLight"
@@ -49,23 +39,12 @@
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
-				"proportionaltoparent"	"1"
-
-				"xpos"			"0"
-				"xpos_minmode"	"15"
-				"ypos"			"11"
-				"ypos_minmode"	"11"
-				"tall"			"10"
-				"wide"			"35"
-				"wide_minmode"	"35"
-				"font"			"HudFontSmall"
-				"font_minmode"	"HudFontSmall"
-				"font_lodef"	"HudFontSmall"
+				"font"		"HudFontSmall"
 			}
 		}	
 	}
@@ -84,23 +63,13 @@
 		
 		if_match
 		{
-			"proportionaltoparent"	"1"
-			"xpos"					"cs-0.5"
-			"xpos_minmode"			"cs-0.5"
-			"ypos"					"0"
-			"ypos_minmode"			"0"
-			"delta_item_x"			"50"
-			"delta_item_start_y"	"12"
-			"delta_item_end_y"		"50"
-			"PositiveColor"			"0 255 0 255"
-			"NegativeColor"			"255 0 0 255"
-			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"xpos"			"c-7"
+			"ypos"			"7"
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
 			"fgcolor"		"TanLight"
@@ -111,23 +80,12 @@
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
-				"proportionaltoparent"	"1"
-
-				"xpos"			"rs1"
-				"xpos_minmode"	"rs1"
-				"ypos"			"11"
-				"ypos_minmode"	"11"
-				"wide"			"35"
-				"wide_minmode"	"35"
-				"tall"			"10"
-				"font"			"HudFontSmall"
-				"font_minmode"	"HudFontSmall"
-				"font_lodef"	"HudFontSmall"
+				"font"		"HudFontSmall"
 			
 			}
 		}	

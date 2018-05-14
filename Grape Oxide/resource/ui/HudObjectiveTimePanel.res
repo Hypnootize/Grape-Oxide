@@ -24,8 +24,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}
 	
@@ -49,8 +48,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}
 	"WaitingForPlayersLabel"
@@ -73,8 +71,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}			
 	"WaitingForPlayersBG"
@@ -93,8 +90,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}
 	"OvertimeLabel"
@@ -117,8 +113,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}			
 	"OvertimeBG"
@@ -137,8 +132,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}
 	"SuddenDeathLabel"
@@ -161,8 +155,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}			
 	"SuddenDeathBG"
@@ -181,8 +174,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}	
 	"SetupLabel"
@@ -205,8 +197,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}	
 	"SetupBG"
@@ -225,8 +216,7 @@
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"	"9999"
 		}
 	}	
 	"ServerTimeLimitLabel"
@@ -246,6 +236,13 @@
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"HudFontMediumSmall"
+		
+		if_match
+		{
+			"xpos"		"-63"
+			"ypos"		"25"
+			"font"		"HudFontSmallest"
+		}
 	}	
 	"ServerTimeLimitLabelBG"
 	{
@@ -261,5 +258,10 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"	"1"	
+		
+		if_match
+		{
+			"xpos"	"9999"
+		}
 	}
 }
