@@ -1,12 +1,7 @@
 # Grape-Oxide
-Screenshots: https://imgur.com/a/9Z9Z5
 
-How to Download and Install: https://imgur.com/a/w3Ah6
+**[SCREENSHOTS ALBUM](https://imgur.com/a/9Z9Z5)** 
 
-Original Damage Color:
+**[INSTALLATION](https://imgur.com/a/w3Ah6)**
 
-hud_combattext_red 226
-
-hud_combattext_green 226
-
-hud_combattext_blue 226
+![](https://i.imgur.com/T39UPgS.jpg)
